@@ -1,8 +1,8 @@
 package com.javacodegeeks.advanced.processor.examples;
 
-import com.javacodegeeks.advanced.processor.Immutable;
+//import com.javacodegeeks.advanced.processor.Immutable;
 
-@Immutable
+//@Immutable
 public class MutableClass {
     private String name;
     

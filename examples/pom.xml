@@ -31,9 +31,6 @@
 				<configuration>
         			<source>17</source>
 				    <target>17</target>
-				    <annotationProcessors>
-						<annotationProcessor>com.javacodegeeks.advanced.processor.GeneratingAnnotationProcessor</annotationProcessor>
-				    </annotationProcessors>
 				</configuration>
 			</plugin>
 		</plugins>
